@@ -1,0 +1,77 @@
+[
+    {
+        "file_name": "question0003.c",
+        "result": "unsat",
+        "time": 0.272
+    },
+    {
+        "file_name": "question0007.c",
+        "result": "sat",
+        "time": 1.961
+    },
+    {
+        "file_name": "question0009.c",
+        "result": "unknown",
+        "time": 0.09
+    },
+    {
+        "file_name": "question0011.c",
+        "result": "unknown",
+        "time": 137.92
+    },
+    {
+        "file_name": "question0019.c",
+        "result": "sat",
+        "time": 0.103
+    },
+    {
+        "file_name": "question0026.c",
+        "result": "unknown",
+        "time": 155.89
+    },
+    {
+        "file_name": "question0027.c",
+        "result": "unknown",
+        "time": 141.04
+    },
+    {
+        "file_name": "question0041.c",
+        "result": "unknown",
+        "time": 85.60
+    },
+    {
+        "file_name": "question0069.c",
+        "result": "unknown",
+        "time": 120.82
+    },
+    {
+        "file_name": "question0080.c",
+        "result": "unknown",
+        "time": 68.00
+    },
+    {
+        "file_name": "question0121.c",
+        "result": "unknown",
+        "time": 89.64
+    },
+    {
+        "file_name": "question0161.c",
+        "result": "unsat",
+        "time": 0.108
+    },
+    {
+        "file_name": "question0162.c",
+        "result": "unsat",
+        "time": 0.274
+    },
+    {
+        "file_name": "question0205.c",
+        "result": "unknown",
+        "time": 59.750
+    },
+    {
+        "file_name": "question0238.c",
+        "result": "unsat",
+        "time": 2.145
+    }
+]

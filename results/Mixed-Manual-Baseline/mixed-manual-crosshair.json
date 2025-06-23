@@ -1,0 +1,67 @@
+[
+    {
+        "file_name": "task21.py",
+        "result": "sat",
+        "time": 0.9322941303253174
+    },
+    {
+        "file_name": "task23.py",
+        "result": "sat",
+        "time": 14.075379848480225
+    },
+    {
+        "file_name": "task3.py",
+        "result": "sat",
+        "time": 0.4521632194519043
+    },
+    {
+        "file_name": "task36.py",
+        "result": "unsat",
+        "time": 0.22059082984924316
+    },
+    {
+        "file_name": "task42.py",
+        "result": "sat",
+        "time": 0.7486679553985596
+    },
+    {
+        "file_name": "task51.py",
+        "result": "sat",
+        "time": 0.35378003120422363
+    },
+    {
+        "file_name": "task54.py",
+        "result": "sat",
+        "time": 0.5294599533081055
+    },
+    {
+        "file_name": "task58.py",
+        "result": "sat",
+        "time": 1.9888410568237305
+    },
+    {
+        "file_name": "task61.py",
+        "result": "sat",
+        "time": 0.2501990795135498
+    },
+    {
+        "file_name": "task69.py",
+        "result": "sat",
+        "time": 0.24233078956604004
+    },
+    {
+        "file_name": "task71.py",
+        "result": "sat",
+        "time": 3.6593711376190186
+    },
+    {
+        "file_name": "task72.py",
+        "result": "sat",
+        "time": 0.2191469669342041
+    },
+    {
+        "file_name": "task84.py",
+        "result": "sat",
+        "time": 11.326125860214233
+    }
+]

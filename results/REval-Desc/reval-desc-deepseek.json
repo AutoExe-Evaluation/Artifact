@@ -1,0 +1,1386 @@
+[
+    {
+        "file_name": "task00_desc.py",
+        "time_autoexe": 160.8940122127533,
+        "time_baseline": 30.711869955062866,
+        "lens_autoexe": [
+            466,
+            661
+        ],
+        "lens_baseline": [
+            636
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task01_desc.py",
+        "time_autoexe": 112.22795486450195,
+        "time_baseline": 58.672224044799805,
+        "lens_autoexe": [
+            636,
+            923
+        ],
+        "lens_baseline": [
+            958
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task02_desc.py",
+        "time_autoexe": 127.85998010635376,
+        "time_baseline": 25.12643814086914,
+        "lens_autoexe": [
+            571,
+            636
+        ],
+        "lens_baseline": [
+            611
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task03_desc.py",
+        "time_autoexe": 166.68333220481873,
+        "time_baseline": 76.71215772628784,
+        "lens_autoexe": [
+            490,
+            496,
+            539,
+            545
+        ],
+        "lens_baseline": [
+            519
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task04_desc.py",
+        "time_autoexe": 36.64940309524536,
+        "time_baseline": 29.85531497001648,
+        "lens_autoexe": [
+            560,
+            664,
+            839
+        ],
+        "lens_baseline": [
+            808
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task05_desc.py",
+        "time_autoexe": 110.1968789100647,
+        "time_baseline": 23.209345817565918,
+        "lens_autoexe": [
+            527,
+            564
+        ],
+        "lens_baseline": [
+            538
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task06_desc.py",
+        "time_autoexe": 58.112051010131836,
+        "time_baseline": 21.679744720458984,
+        "lens_autoexe": [
+            424,
+            564,
+            585
+        ],
+        "lens_baseline": [
+            559
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task07_desc.py",
+        "time_autoexe": 527.9497990608215,
+        "time_baseline": 27.28487205505371,
+        "lens_autoexe": [
+            726,
+            746
+        ],
+        "lens_baseline": [
+            771
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task08_desc.py",
+        "time_autoexe": 137.7759919166565,
+        "time_baseline": 27.330241918563843,
+        "lens_autoexe": [
+            470,
+            492,
+            570,
+            578
+        ],
+        "lens_baseline": [
+            552
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task09_desc.py",
+        "time_autoexe": 171.28792333602905,
+        "time_baseline": 269.15301489830017,
+        "lens_autoexe": [
+            314,
+            340
+        ],
+        "lens_baseline": [
+            314
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task10_desc.py",
+        "time_autoexe": 60.388071060180664,
+        "time_baseline": 216.19038200378418,
+        "lens_autoexe": [
+            470,
+            536
+        ],
+        "lens_baseline": [
+            510
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task11_desc.py",
+        "time_autoexe": 156.60685110092163,
+        "time_baseline": 310.2979760169983,
+        "lens_autoexe": [
+            594,
+            894,
+            1000
+        ],
+        "lens_baseline": [
+            1052
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task12_desc.py",
+        "time_autoexe": 167.54753494262695,
+        "time_baseline": 542.1513030529022,
+        "lens_autoexe": [
+            567,
+            588,
+            656,
+            687
+        ],
+        "lens_baseline": [
+            663
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task13_desc.py",
+        "time_autoexe": 103.14046287536621,
+        "time_baseline": 76.31210494041443,
+        "lens_autoexe": [
+            325,
+            351
+        ],
+        "lens_baseline": [
+            325
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task14_desc.py",
+        "time_autoexe": 343.0920948982239,
+        "time_baseline": 425.65097284317017,
+        "lens_autoexe": [
+            394,
+            458,
+            512
+        ],
+        "lens_baseline": [
+            486
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task15_desc.py",
+        "time_autoexe": 619.7135968208313,
+        "time_baseline": 75.61504077911377,
+        "lens_autoexe": [
+            536,
+            616,
+            616,
+            630
+        ],
+        "lens_baseline": [
+            604
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task16_desc.py",
+        "time_autoexe": 97.33025693893433,
+        "time_baseline": 216.65580701828003,
+        "lens_autoexe": [
+            344,
+            583,
+            618
+        ],
+        "lens_baseline": [
+            650
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task17_desc.py",
+        "time_autoexe": 292.07778906822205,
+        "time_baseline": 64.23792910575867,
+        "lens_autoexe": [
+            430,
+            464
+        ],
+        "lens_baseline": [
+            444
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task18_desc.py",
+        "time_autoexe": 254.60863590240479,
+        "time_baseline": 95.22059392929077,
+        "lens_autoexe": [
+            606,
+            631,
+            753
+        ],
+        "lens_baseline": [
+            734
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task19_desc.py",
+        "time_autoexe": 145.16411876678467,
+        "time_baseline": 34.644404888153076,
+        "lens_autoexe": [
+            261,
+            359,
+            390
+        ],
+        "lens_baseline": [
+            374
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task20_desc.py",
+        "time_autoexe": 234.10596084594727,
+        "time_baseline": 357.9654178619385,
+        "lens_autoexe": [
+            348,
+            366
+        ],
+        "lens_baseline": [
+            340
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task21_desc.py",
+        "time_autoexe": 808.8205142021179,
+        "time_baseline": 183.4339120388031,
+        "lens_autoexe": [
+            514,
+            522,
+            635,
+            638,
+            641,
+            643,
+            644,
+            646
+        ],
+        "lens_baseline": [
+            618
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task22_desc.py",
+        "time_autoexe": 40.86471390724182,
+        "time_baseline": 31.283045768737793,
+        "lens_autoexe": [
+            393,
+            459
+        ],
+        "lens_baseline": [
+            433
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task23_desc.py",
+        "time_autoexe": 480.67750096321106,
+        "time_baseline": 282.6414940357208,
+        "lens_autoexe": [
+            369,
+            552,
+            555,
+            592,
+            595,
+            595,
+            598
+        ],
+        "lens_baseline": [
+            573
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task24_desc.py",
+        "time_autoexe": 855.4310257434845,
+        "time_baseline": 54.71496224403381,
+        "lens_autoexe": [
+            514,
+            522,
+            635,
+            638,
+            641,
+            643,
+            644,
+            646
+        ],
+        "lens_baseline": [
+            618
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task25_desc.py",
+        "time_autoexe": 311.2477560043335,
+        "time_baseline": 236.87907886505127,
+        "lens_autoexe": [
+            603,
+            609
+        ],
+        "lens_baseline": [
+            583
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task26_desc.py",
+        "time_autoexe": 521.955641746521,
+        "time_baseline": 61.99917817115784,
+        "lens_autoexe": [
+            382,
+            469,
+            503
+        ],
+        "lens_baseline": [
+            480
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task27_desc.py",
+        "time_autoexe": 270.0782222747803,
+        "time_baseline": 35.093132734298706,
+        "lens_autoexe": [
+            904,
+            949
+        ],
+        "lens_baseline": [
+            923
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task28_desc.py",
+        "time_autoexe": 59.13821291923523,
+        "time_baseline": 82.6686999797821,
+        "lens_autoexe": [
+            1257
+        ],
+        "lens_baseline": [
+            1231
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task29_desc.py",
+        "time_autoexe": 526.4684810638428,
+        "time_baseline": 235.56408190727234,
+        "lens_autoexe": [
+            648,
+            718
+        ],
+        "lens_baseline": [
+            704
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task30_desc.py",
+        "time_autoexe": 153.18990182876587,
+        "time_baseline": 70.80574584007263,
+        "lens_autoexe": [
+            516,
+            587
+        ],
+        "lens_baseline": [
+            605
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task31_desc.py",
+        "time_autoexe": 351.3561580181122,
+        "time_baseline": 97.91400218009949,
+        "lens_autoexe": [
+            850,
+            873,
+            950,
+            953
+        ],
+        "lens_baseline": [
+            942
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task32_desc.py",
+        "time_autoexe": 164.3084681034088,
+        "time_baseline": 84.43537712097168,
+        "lens_autoexe": [
+            619,
+            674
+        ],
+        "lens_baseline": [
+            648
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task33_desc.py",
+        "time_autoexe": 737.7751460075378,
+        "time_baseline": 88.0506100654602,
+        "lens_autoexe": [
+            840,
+            842,
+            854,
+            856,
+            858,
+            860,
+            872,
+            874
+        ],
+        "lens_baseline": [
+            848
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task34_desc.py",
+        "time_autoexe": 662.0988538265228,
+        "time_baseline": 120.5623197555542,
+        "lens_autoexe": [
+            569,
+            647,
+            652
+        ],
+        "lens_baseline": [
+            632
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task35_desc.py",
+        "time_autoexe": 151.33074593544006,
+        "time_baseline": 59.39650011062622,
+        "lens_autoexe": [
+            1050,
+            1127
+        ],
+        "lens_baseline": [
+            1101
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task36_desc.py",
+        "time_autoexe": 1481.1207008361816,
+        "time_baseline": 42.17363095283508,
+        "lens_autoexe": [
+            804,
+            911,
+            960,
+            1011,
+            1061,
+            1110,
+            1161,
+            1211,
+            1260,
+            1311,
+            1361,
+            1410,
+            1447,
+            1447
+        ],
+        "lens_baseline": [
+            1560
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task37_desc.py",
+        "time_autoexe": 412.41611218452454,
+        "time_baseline": 199.44998407363892,
+        "lens_autoexe": [
+            481,
+            514,
+            554,
+            556
+        ],
+        "lens_baseline": [
+            531
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task38_desc.py",
+        "time_autoexe": 144.8916199207306,
+        "time_baseline": 134.03254199028015,
+        "lens_autoexe": [
+            569,
+            668,
+            685
+        ],
+        "lens_baseline": [
+            659
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task39_desc.py",
+        "time_autoexe": 1251.2187116146088,
+        "time_baseline": 154.7618911266327,
+        "lens_autoexe": [
+            800,
+            957,
+            970,
+            989,
+            992,
+            1002,
+            1005
+        ],
+        "lens_baseline": [
+            980
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task40_desc.py",
+        "time_autoexe": 461.198105096817,
+        "time_baseline": 86.39548182487488,
+        "lens_autoexe": [
+            540,
+            651,
+            691,
+            715
+        ],
+        "lens_baseline": [
+            690
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task41_desc.py",
+        "time_autoexe": 154.05392909049988,
+        "time_baseline": 33.93399119377136,
+        "lens_autoexe": [
+            394,
+            435
+        ],
+        "lens_baseline": [
+            409
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task42_desc.py",
+        "time_autoexe": 1046.023766040802,
+        "time_baseline": 119.80461311340332,
+        "lens_autoexe": [
+            503,
+            665,
+            695,
+            703,
+            707,
+            718,
+            719,
+            733,
+            739,
+            745,
+            751,
+            757,
+            763
+        ],
+        "lens_baseline": [
+            782
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task43_desc.py",
+        "time_autoexe": 735.6644909381866,
+        "time_baseline": 91.21990299224854,
+        "lens_autoexe": [
+            601,
+            607,
+            699,
+            699,
+            704,
+            704
+        ],
+        "lens_baseline": [
+            682
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task44_desc.py",
+        "time_autoexe": 158.01622891426086,
+        "time_baseline": 165.6113579273224,
+        "lens_autoexe": [
+            613,
+            614,
+            623,
+            624
+        ],
+        "lens_baseline": [
+            597
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task45_desc.py",
+        "time_autoexe": 138.8756639957428,
+        "time_baseline": 49.25501108169556,
+        "lens_autoexe": [
+            500,
+            581
+        ],
+        "lens_baseline": [
+            555
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task46_desc.py",
+        "time_autoexe": 120.67689299583435,
+        "time_baseline": 72.25225496292114,
+        "lens_autoexe": [
+            860,
+            1108
+        ],
+        "lens_baseline": [
+            1083
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task47_desc.py",
+        "time_autoexe": 526.9629011154175,
+        "time_baseline": 92.9621570110321,
+        "lens_autoexe": [
+            483,
+            617,
+            626
+        ],
+        "lens_baseline": [
+            648
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task48_desc.py",
+        "time_autoexe": 311.4631440639496,
+        "time_baseline": 125.09031677246094,
+        "lens_autoexe": [
+            898,
+            985,
+            1043
+        ],
+        "lens_baseline": [
+            1029
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task49_desc.py",
+        "time_autoexe": 114.076993227005,
+        "time_baseline": 95.3102478981018,
+        "lens_autoexe": [
+            738
+        ],
+        "lens_baseline": [
+            713
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task50_desc.py",
+        "time_autoexe": 439.6294560432434,
+        "time_baseline": 314.14723205566406,
+        "lens_autoexe": [
+            1315,
+            1334,
+            1485,
+            1486
+        ],
+        "lens_baseline": [
+            1509
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task51_desc.py",
+        "time_autoexe": 603.6306219100952,
+        "time_baseline": 150.7538492679596,
+        "lens_autoexe": [
+            833,
+            880,
+            926,
+            927,
+            959
+        ],
+        "lens_baseline": [
+            933
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task52_desc.py",
+        "time_autoexe": 95.06564784049988,
+        "time_baseline": 549.0574610233307,
+        "lens_autoexe": [
+            640
+        ],
+        "lens_baseline": [
+            809
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task53_desc.py",
+        "time_autoexe": 183.46378803253174,
+        "time_baseline": 179.30455589294434,
+        "lens_autoexe": [
+            717,
+            876
+        ],
+        "lens_baseline": [
+            850
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task54_desc.py",
+        "time_autoexe": 600.1280708312988,
+        "time_baseline": 258.3097229003906,
+        "lens_autoexe": [
+            450,
+            483,
+            542,
+            560
+        ],
+        "lens_baseline": [
+            534
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task55_desc.py",
+        "time_autoexe": 311.42907094955444,
+        "time_baseline": 114.06307911872864,
+        "lens_autoexe": [
+            799,
+            934,
+            1008,
+            1013
+        ],
+        "lens_baseline": [
+            987
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task56_desc.py",
+        "time_autoexe": 109.48217296600342,
+        "time_baseline": 135.84578609466553,
+        "lens_autoexe": [
+            1057
+        ],
+        "lens_baseline": [
+            1032
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task57_desc.py",
+        "time_autoexe": 659.0566380023956,
+        "time_baseline": 254.4602038860321,
+        "lens_autoexe": [
+            984,
+            1018,
+            1145,
+            1149,
+            1156,
+            1160
+        ],
+        "lens_baseline": [
+            1134
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task58_desc.py",
+        "time_autoexe": 2413.187026977539,
+        "time_baseline": 139.67856001853943,
+        "lens_autoexe": [
+            1125,
+            1230,
+            1272,
+            1274,
+            1292,
+            1294,
+            1294,
+            1296,
+            1299,
+            1301,
+            1301,
+            1301,
+            1303,
+            1303,
+            1303,
+            1305
+        ],
+        "lens_baseline": [
+            1294
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task59_desc.py",
+        "time_autoexe": 773.6803159713745,
+        "time_baseline": 96.28997683525085,
+        "lens_autoexe": [
+            718,
+            798,
+            902,
+            904,
+            915,
+            917
+        ],
+        "lens_baseline": [
+            905
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task60_desc.py",
+        "time_autoexe": 676.8130369186401,
+        "time_baseline": 137.84139490127563,
+        "lens_autoexe": [
+            1117,
+            1267,
+            1269,
+            1306,
+            1308,
+            1308,
+            1310
+        ],
+        "lens_baseline": [
+            1285
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task61_desc.py",
+        "time_autoexe": 4091.505918979645,
+        "time_baseline": 527.1635282039642,
+        "lens_autoexe": [
+            1370,
+            1449,
+            1489,
+            1849,
+            1864,
+            1864,
+            1864,
+            1864,
+            1879,
+            1879,
+            1879,
+            1879,
+            1879,
+            1879,
+            1894,
+            1894,
+            1894,
+            1894,
+            1909
+        ],
+        "lens_baseline": [
+            1883
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task62_desc.py",
+        "time_autoexe": 1039.5197231769562,
+        "time_baseline": 145.59219193458557,
+        "lens_autoexe": [
+            819,
+            825,
+            915,
+            915,
+            950,
+            950
+        ],
+        "lens_baseline": [
+            934
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task63_desc.py",
+        "time_autoexe": 174.5611069202423,
+        "time_baseline": 109.0445020198822,
+        "lens_autoexe": [
+            431,
+            436,
+            536,
+            554
+        ],
+        "lens_baseline": [
+            528
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task64_desc.py",
+        "time_autoexe": 998.8232021331787,
+        "time_baseline": 120.0832998752594,
+        "lens_autoexe": [
+            677,
+            903,
+            1006,
+            1007
+        ],
+        "lens_baseline": [
+            1000
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task65_desc.py",
+        "time_autoexe": 69.18059277534485,
+        "time_baseline": 118.85000109672546,
+        "lens_autoexe": [
+            596,
+            621
+        ],
+        "lens_baseline": [
+            595
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task66_desc.py",
+        "time_autoexe": 139.28946995735168,
+        "time_baseline": 30.043944120407104,
+        "lens_autoexe": [
+            502,
+            548
+        ],
+        "lens_baseline": [
+            522
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task67_desc.py",
+        "time_autoexe": 111.62979626655579,
+        "time_baseline": 126.2624340057373,
+        "lens_autoexe": [
+            752,
+            832,
+            833
+        ],
+        "lens_baseline": [
+            807
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task68_desc.py",
+        "time_autoexe": 396.7491569519043,
+        "time_baseline": 53.5529522895813,
+        "lens_autoexe": [
+            498,
+            539
+        ],
+        "lens_baseline": [
+            513
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task69_desc.py",
+        "time_autoexe": 1789.0480070114136,
+        "time_baseline": 133.31025218963623,
+        "lens_autoexe": [
+            560,
+            627,
+            666,
+            702,
+            741,
+            757,
+            817,
+            848,
+            875,
+            914,
+            918,
+            935,
+            957,
+            974
+        ],
+        "lens_baseline": [
+            967
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task70_desc.py",
+        "time_autoexe": 2947.0285890102386,
+        "time_baseline": 19.515226125717163,
+        "lens_autoexe": [
+            1027,
+            1083,
+            1126,
+            1127,
+            1146,
+            1147,
+            1147,
+            1148,
+            1166,
+            1167,
+            1167,
+            1167,
+            1168,
+            1168,
+            1168,
+            1169,
+            1221,
+            1222,
+            1222,
+            1222,
+            1222,
+            1223,
+            1223,
+            1223,
+            1223,
+            1223,
+            1223,
+            1224,
+            1224,
+            1224,
+            1224,
+            1225
+        ],
+        "lens_baseline": [
+            1200
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task71_desc.py",
+        "time_autoexe": 642.8877241611481,
+        "time_baseline": 88.27370309829712,
+        "lens_autoexe": [
+            752,
+            855,
+            903,
+            905
+        ],
+        "lens_baseline": [
+            898
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task72_desc.py",
+        "time_autoexe": 529.2062532901764,
+        "time_baseline": 127.74867510795593,
+        "lens_autoexe": [
+            716,
+            899,
+            939
+        ],
+        "lens_baseline": [
+            913
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task73_desc.py",
+        "time_autoexe": 261.48681807518005,
+        "time_baseline": 40.09349012374878,
+        "lens_autoexe": [
+            752,
+            871
+        ],
+        "lens_baseline": [
+            846
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task74_desc.py",
+        "time_autoexe": 410.544762134552,
+        "time_baseline": 120.66066789627075,
+        "lens_autoexe": [
+            716
+        ],
+        "lens_baseline": [
+            691
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task75_desc.py",
+        "time_autoexe": 436.4669189453125,
+        "time_baseline": 138.43949389457703,
+        "lens_autoexe": [
+            503,
+            732
+        ],
+        "lens_baseline": [
+            706
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task76_desc.py",
+        "time_autoexe": 1180.2343211174011,
+        "time_baseline": 818.5366592407227,
+        "lens_autoexe": [
+            588,
+            769
+        ],
+        "lens_baseline": [
+            743
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task77_desc.py",
+        "time_autoexe": 200.4545500278473,
+        "time_baseline": 114.75828790664673,
+        "lens_autoexe": [
+            1258,
+            1259,
+            1261,
+            1262
+        ],
+        "lens_baseline": [
+            1279
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task78_desc.py",
+        "time_autoexe": 329.4379668235779,
+        "time_baseline": 83.11978077888489,
+        "lens_autoexe": [
+            920,
+            966
+        ],
+        "lens_baseline": [
+            940
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task79_desc.py",
+        "time_autoexe": 177.10630989074707,
+        "time_baseline": 101.14539885520935,
+        "lens_autoexe": [
+            1212,
+            1526
+        ],
+        "lens_baseline": [
+            1509
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task80_desc.py",
+        "time_autoexe": 401.9650070667267,
+        "time_baseline": 184.63800191879272,
+        "lens_autoexe": [
+            592,
+            706
+        ],
+        "lens_baseline": [
+            681
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task81_desc.py",
+        "time_autoexe": 146.02618980407715,
+        "time_baseline": 25.363345861434937,
+        "lens_autoexe": [
+            417,
+            498,
+            498
+        ],
+        "lens_baseline": [
+            472
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task82_desc.py",
+        "time_autoexe": 262.38896322250366,
+        "time_baseline": 141.00351428985596,
+        "lens_autoexe": [
+            483,
+            770
+        ],
+        "lens_baseline": [
+            763
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task83_desc.py",
+        "time_autoexe": 307.50366377830505,
+        "time_baseline": 40.18169188499451,
+        "lens_autoexe": [
+            933,
+            970
+        ],
+        "lens_baseline": [
+            944
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task84_desc.py",
+        "time_autoexe": 376.13139486312866,
+        "time_baseline": 29.583439111709595,
+        "lens_autoexe": [
+            564,
+            574,
+            591,
+            601,
+            673,
+            678,
+            683,
+            688
+        ],
+        "lens_baseline": [
+            666
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    }
+]

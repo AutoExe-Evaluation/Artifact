@@ -1,0 +1,510 @@
+[
+    {
+        "file_name": "question0003.c",
+        "time_autoexe": 36.38387084007263,
+        "time_baseline": 82.22105383872986,
+        "lens_autoexe": [
+            284,
+            440
+        ],
+        "lens_baseline": [
+            416
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "question0007.c",
+        "time_autoexe": 45.1285400390625,
+        "time_baseline": 16.00050115585327,
+        "lens_autoexe": [
+            245,
+            435
+        ],
+        "lens_baseline": [
+            404
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "question0009.c",
+        "time_autoexe": 113.21980500221252,
+        "time_baseline": 121.57397222518921,
+        "lens_autoexe": [
+            389,
+            549
+        ],
+        "lens_baseline": [
+            521
+        ],
+        "result_autoexe": "unsat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0011.c",
+        "time_autoexe": 64.95392894744873,
+        "time_baseline": 21.786132097244263,
+        "lens_autoexe": [
+            283,
+            485
+        ],
+        "lens_baseline": [
+            481
+        ],
+        "result_autoexe": "unsat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0019.c",
+        "time_autoexe": 212.4982988834381,
+        "time_baseline": 21.866427183151245,
+        "lens_autoexe": [
+            454,
+            459,
+            587,
+            592,
+            638,
+            643
+        ],
+        "lens_baseline": [
+            610
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0026.c",
+        "time_autoexe": 112.67159605026245,
+        "time_baseline": 21.91171169281006,
+        "lens_autoexe": [
+            334,
+            382,
+            385
+        ],
+        "lens_baseline": [
+            364
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0027.c",
+        "time_autoexe": 128.82003903388977,
+        "time_baseline": 63.36378216743469,
+        "lens_autoexe": [
+            339,
+            379
+        ],
+        "lens_baseline": [
+            350
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0041.c",
+        "time_autoexe": 166.45283722877502,
+        "time_baseline": 32.74834585189819,
+        "lens_autoexe": [
+            372,
+            375,
+            467,
+            470,
+            519
+        ],
+        "lens_baseline": [
+            492
+        ],
+        "result_autoexe": "unsat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0069.c",
+        "time_autoexe": 57.59431004524231,
+        "time_baseline": 36.562114000320435,
+        "lens_autoexe": [
+            339,
+            508
+        ],
+        "lens_baseline": [
+            479
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "question0080.c",
+        "time_autoexe": 206.4104127883911,
+        "time_baseline": 71.94516777992249,
+        "lens_autoexe": [
+            323,
+            375,
+            386
+        ],
+        "lens_baseline": [
+            357
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "question0121.c",
+        "time_autoexe": 175.24108600616455,
+        "time_baseline": 32.661476850509644,
+        "lens_autoexe": [
+            370,
+            495,
+            522
+        ],
+        "lens_baseline": [
+            485
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0161.c",
+        "time_autoexe": 164.5734989643097,
+        "time_baseline": 38.80076789855957,
+        "lens_autoexe": [
+            387,
+            554
+        ],
+        "lens_baseline": [
+            548
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0162.c",
+        "time_autoexe": 56.67395281791687,
+        "time_baseline": 44.360806703567505,
+        "lens_autoexe": [
+            394,
+            495
+        ],
+        "lens_baseline": [
+            466
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0205.c",
+        "time_autoexe": 92.27490401268005,
+        "time_baseline": 72.37222599983215,
+        "lens_autoexe": [
+            320,
+            533,
+            543,
+            555
+        ],
+        "lens_baseline": [
+            532
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "question0238.c",
+        "time_autoexe": 109.33169198036194,
+        "time_baseline": 86.44673109054565,
+        "lens_autoexe": [
+            334
+        ],
+        "lens_baseline": [
+            568
+        ],
+        "result_autoexe": "unsat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task21.py",
+        "time_autoexe": 23.76029324531555,
+        "time_baseline": 16.078867197036743,
+        "lens_autoexe": [
+            256,
+            367,
+            370
+        ],
+        "lens_baseline": [
+            347
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task23.py",
+        "time_autoexe": 62.693922996520996,
+        "time_baseline": 57.13664627075195,
+        "lens_autoexe": [
+            379,
+            431,
+            443
+        ],
+        "lens_baseline": [
+            423
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task3.py",
+        "time_autoexe": 84.29662799835205,
+        "time_baseline": 47.98167395591736,
+        "lens_autoexe": [
+            311,
+            357
+        ],
+        "lens_baseline": [
+            338
+        ],
+        "result_autoexe": "unsat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task36.c",
+        "time_autoexe": 29.15097188949585,
+        "time_baseline": 55.76252627372742,
+        "lens_autoexe": [
+            236
+        ],
+        "lens_baseline": [
+            985
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task36.py",
+        "time_autoexe": 415.3419551849365,
+        "time_baseline": 22.805624961853027,
+        "lens_autoexe": [
+            215,
+            322,
+            371,
+            422,
+            472,
+            521,
+            572,
+            622,
+            671,
+            722,
+            772,
+            821,
+            858,
+            858
+        ],
+        "lens_baseline": [
+            977
+        ],
+        "result_autoexe": "unsat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task42.c",
+        "time_autoexe": 106.9151349067688,
+        "time_baseline": 29.04649806022644,
+        "lens_autoexe": [
+            507,
+            530,
+            549
+        ],
+        "lens_baseline": [
+            628
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task42.py",
+        "time_autoexe": 117.10808086395264,
+        "time_baseline": 24.503012895584106,
+        "lens_autoexe": [
+            421,
+            445,
+            452,
+            457,
+            457,
+            472,
+            481,
+            487,
+            488,
+            493,
+            494,
+            499
+        ],
+        "lens_baseline": [
+            543
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task51.py",
+        "time_autoexe": 63.609540939331055,
+        "time_baseline": 26.609619855880737,
+        "lens_autoexe": [
+            232,
+            261,
+            262,
+            291
+        ],
+        "lens_baseline": [
+            271
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task54.py",
+        "time_autoexe": 112.41532707214355,
+        "time_baseline": 21.45934796333313,
+        "lens_autoexe": [
+            308,
+            326,
+            385,
+            403
+        ],
+        "lens_baseline": [
+            383
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task58.py",
+        "time_autoexe": 385.81695580482483,
+        "time_baseline": 14.233043193817139,
+        "lens_autoexe": [
+            397,
+            523,
+            576,
+            577,
+            596,
+            597,
+            597,
+            598,
+            602,
+            603,
+            603,
+            603,
+            604,
+            604,
+            604,
+            605
+        ],
+        "lens_baseline": [
+            610
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task61.py",
+        "time_autoexe": 170.21675896644592,
+        "time_baseline": 19.012290239334106,
+        "lens_autoexe": [
+            263,
+            339,
+            379,
+            739,
+            754,
+            754,
+            754,
+            754,
+            769,
+            769,
+            769,
+            769,
+            769,
+            769,
+            784,
+            784,
+            784,
+            784,
+            799
+        ],
+        "lens_baseline": [
+            779
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task69.py",
+        "time_autoexe": 350.3253130912781,
+        "time_baseline": 116.09679913520813,
+        "lens_autoexe": [
+            236,
+            302,
+            310,
+            349,
+            376,
+            415,
+            431,
+            491,
+            522,
+            547,
+            586,
+            590,
+            607,
+            629,
+            646
+        ],
+        "lens_baseline": [
+            644
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task71.py",
+        "time_autoexe": 98.2225489616394,
+        "time_baseline": 28.23356604576111,
+        "lens_autoexe": [
+            232,
+            332,
+            380,
+            382
+        ],
+        "lens_baseline": [
+            381
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "unsat"
+    },
+    {
+        "file_name": "task72.py",
+        "time_autoexe": 59.49892592430115,
+        "time_baseline": 54.13879895210266,
+        "lens_autoexe": [
+            238,
+            415,
+            455
+        ],
+        "lens_baseline": [
+            435
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    },
+    {
+        "file_name": "task84.py",
+        "time_autoexe": 110.09611797332764,
+        "time_baseline": 31.84280800819397,
+        "lens_autoexe": [
+            270,
+            281,
+            303,
+            390
+        ],
+        "lens_baseline": [
+            374
+        ],
+        "result_autoexe": "sat",
+        "result_baseline": "sat"
+    }
+]
